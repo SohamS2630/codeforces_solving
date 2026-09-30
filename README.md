@@ -6,17 +6,32 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 3 |
+| 7 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [implementation](#implementation) (5)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### implementation
 
@@ -33,6 +48,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### strings
 
