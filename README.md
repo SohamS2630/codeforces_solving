@@ -6,17 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 6 |
+| 21 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (15)
 - [math](#math) (5)
+- [sortings](#sortings) (1)
 - [strings](#strings) (4)
 
 ---
@@ -34,6 +36,13 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### greedy
 
@@ -70,6 +79,12 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
 ### strings
 
