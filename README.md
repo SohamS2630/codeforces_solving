@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 158 | 20 |
+| 159 | 20 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (28)
 - [constructive algorithms](#constructive-algorithms) (21)
@@ -46,6 +46,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+| 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/SohamS2630/codeforces_solving/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 
 ### binary search
 
